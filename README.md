@@ -37,7 +37,8 @@
 * このお店は良かったとみんなに紹介したい時
 
 
-## [設計書](https://docs.google.com/spreadsheets/d/1jF3gmsmPsUNea8iVSyVg1SzfjYO_jfx6rqFjXvP8nps/edit?usp=sharing)
+## 設計書
+[実装機能リスト](https://docs.google.com/spreadsheets/d/1jF3gmsmPsUNea8iVSyVg1SzfjYO_jfx6rqFjXvP8nps/edit?usp=sharing)
 
 
 ## 開発環境
